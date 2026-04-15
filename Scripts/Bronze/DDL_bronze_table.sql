@@ -1,3 +1,20 @@
+/*
+===============================================================================
+DDL Table Creation  Creation of Table in Bronze Layer
+===============================================================================
+Script Purpose:
+    This DDL creates table for bronze layer
+   
+
+
+
+===============================================================================
+*/
+
+
+
+
+
 -- Create schema if not exists
 CREATE SCHEMA IF NOT EXISTS bronze;
 
